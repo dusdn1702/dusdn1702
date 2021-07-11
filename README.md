@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yeonwoo%20Cho&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Yeonwoo%20Cho&fontSize=50)
 
 ### Hi 👋
 🌱 I’m currently learning  

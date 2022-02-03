@@ -1,8 +1,8 @@
 ### Hi 👋
-I’m currently learning 🌱
-- Backend Developer👩🏻‍💻
 
-  [Portfolio📝](https://github.com/dusdn1702/dusdn1702/files/7615951/_.pdf)
+Backend Developer👩🏻‍💻
+
+<!--[Portfolio📝](https://github.com/dusdn1702/dusdn1702/files/7615951/_.pdf)-->
 
 ![dusdn1702's github stats](https://github-readme-stats.vercel.app/api?username=dusdn1702&show_icons=true&theme=dracula)  
 ![gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dusdn1702@gmail.com)
